@@ -1,0 +1,11 @@
+Make sure you have these installed before running the code.
+
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+textblob
+wordcloud
+scikit-learn
+jupyter
