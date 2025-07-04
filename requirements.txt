@@ -1,5 +1,3 @@
-Make sure you have these installed before running the code.
-
 pandas
 numpy
 matplotlib
